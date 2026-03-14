@@ -1,91 +1,81 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Leo%20Ramos%20Developer&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Leo%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Leo Ramos</h1>
-<h3 align="center">💻 Full Stack Developer in Progress | Mexico</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Leo Ramos</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;Next.js+%7C+PHP+%7C+PostgreSQL;Building+Digital+Solutions;Passion+for+Clean+Code&center=true&width=500&height=45&color=2c5364">
+</div>
+
+---
+
+### 🚀 About Me
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <p>💡 <b>Passionate</b> about building scalable web applications.</p>
+      <p>🎓 <b>Software Development Student</b> based in Mexico 🇲🇽.</p>
+      <p>🛠️ Currently focused on <b>Full Stack Architecture</b>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p>🎯 <b>Goal:</b> Create impact through technology.</p>
+      <p>⚡ <b>Fun Fact:</b> Always learning something new every day.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Full+Stack+Learner;Next.js+%7C+PHP+%7C+MongoDB;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,php,mysql,postgres,mongodb,git,github,vscode,tailwind,figma&perline=7"/>
 </p>
 
 ---
 
-# 🚀 About Me
+### 📂 Featured Projects
 
-💡 Passionate about building web applications  
-🎓 Software development student  
-🛠️ Currently working on real projects  
-
-### Projects
-
-- 🛒 **GSS - Grocery Store System**  
-- 💧 **FLOW - Water Service Management System**
-
-### Currently Learning
-
-- ⚡ Next.js
-- 🍃 MongoDB
-- 🐘 PostgreSQL
-- 🔌 API Development
-- 🎨 UI / UX improvement
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🛒 GSS** | **Grocery Store System** - Inventory & suppliers management. | `PHP` `MySQL` `Bootstrap` |
+| **💧 FLOW** | **Water Service System** - Community management platform. | `Next.js` `PostgreSQL` |
 
 ---
 
-# 🛠️ Tech Stack
+### 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,postgres,mongodb,git,github,vscode,nextjs"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leobardoRA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobardoRA&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leobardoRA&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobardoRA&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com/?user=leobardoRA&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+### 🐍 Contribution Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=leobardoRA&theme=tokyonight&hide_border=true"/>
+  <img src="https://github.com/leobardoRA/leobardoRA/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-🔹 **GSS - Grocery Store System**  
-Inventory, suppliers and product management system built with **PHP + MySQL**
-
-🔹 **FLOW System**  
-Platform to manage community water services.
-
----
-
-# 🌎 Connect with Me
+### 🌎 Connect with Me
 
 <p align="center">
-
-<a href="https://github.com/leobardoRA">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://github.com/leobardoRA">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
---
-
-⭐ *Thanks for visiting my profile*
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/leobardoRA/leobardoRA/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leobardoRA&label=Profile%20Views&color=2c5364&style=flat" alt="Views" />
+</p>
