@@ -85,6 +85,6 @@ Platform to manage community water services.
 ---
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/leobardoRA/leobardoRA/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/leobardoRA/leobardoRA-.github-workflows-snake.ym.git)
 
 ⭐ *Thanks for visiting my profile*
