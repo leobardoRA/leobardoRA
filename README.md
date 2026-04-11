@@ -9,15 +9,6 @@
 
 ---
 
-### System Statistics & Metrics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=leobardoRA&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leobardoRA&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=ffffff" />
-</p>
-
----
-
 ### Technical Ecosystem by Category
 
 <div align="center">
@@ -28,21 +19,6 @@
 | **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nestjs,supabase,php,mysql,postgres,mongodb&theme=dark" height="40" /> |
 | **CyberSecurity & OS** | <img src="https://skillicons.dev/icons?i=kali,linux,debian,ubuntu,bash&theme=dark" height="40" /> |
 | **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,windows&theme=dark" height="40" /> |
-
-</div>
-
----
-
-### Strategic Projects Portfolio
-> Mis proyectos más destacados con estadísticas reales de GitHub.
-
-<div align="center">
-
-| Project | Tech Stack | Metrics & Link |
-| :--- | :---: | :--- |
-| **GSS System** | <img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" height="25" /> | [![Repo](https://img.shields.io/badge/Live-Repository-36BCF7?style=flat-square&logo=github)](https://github.com/leobardoRA/GSS-System) |
-| **FLOW App** | <img src="https://skillicons.dev/icons?i=nextjs,supabase&theme=dark" height="25" /> | [![Repo](https://img.shields.io/badge/Live-Repository-36BCF7?style=flat-square&logo=github)](https://github.com/leobardoRA/FLOW-App) |
-| **Retail Hub** | <img src="https://skillicons.dev/icons?i=react,nestjs&theme=dark" height="25" /> | [![Repo](https://img.shields.io/badge/Live-Repository-36BCF7?style=flat-square&logo=github)](https://github.com/leobardoRA/Retail-Hub) |
 
 </div>
 
